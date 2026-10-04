@@ -1,0 +1,6 @@
+*.png  linguist-documentation
+*.ico  linguist-documentation
+*.svg  linguist-documentation
+*.woff2 linguist-documentation
+docs/* linguist-documentation
+brand/* linguist-documentation

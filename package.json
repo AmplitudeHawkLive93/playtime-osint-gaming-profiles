@@ -1,0 +1,11 @@
+{
+  "name": "hours_add",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Playtime \u2014 osint helper",
+  "license": "MIT",
+  "main": "lib/hours_add.js",
+  "scripts": {
+    "start": "node lib/hours_add.js"
+  }
+}
