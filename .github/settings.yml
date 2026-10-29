@@ -1,0 +1,4 @@
+repository:
+  homepage: https://awesomeosint.tools/playtime/
+  description: "OSINT tool for Windows: type a nickname and get every public gaming profile behind it, with the games and the hours played."
+  topics: osint, osint-tool, gaming-profiles, username-search, steam, xbox, playstation, socmint
